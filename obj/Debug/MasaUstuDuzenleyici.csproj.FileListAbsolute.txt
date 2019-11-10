@@ -1,0 +1,93 @@
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Form1.resources
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Desktop\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_masaustuDuzenle.resources
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_masaustuDuzenle.resources
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\Serkan\Desktop\Mustafa'dan\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_kategoriyeGoreDuzenle.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_anaForm.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+D:\Serkan Yarar\C# Programlar\2 Şirket\Programs\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_AnaForm.resources
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\musta\Desktop\Yeni\MasaUstuDuzenleyici\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_AnaForm.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\musta\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Dropbox (Null)\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_AnaForm.resources
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\Serkan\Desktop\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe.config
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.exe
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.exe
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\bin\Debug\MasaUstuDuzenleyici.pdb
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_AnaForm.resources
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\TURMOB\Desktop\MasaUstuDuzenleyici v2.0\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_AnaForm.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Ayarlar.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.frm_Bilgi.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.Properties.Resources.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\MasaUstuDuzenleyici.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\bin\Debug\Masaüstü Düzenleyici.exe.config
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\bin\Debug\Masaüstü Düzenleyici.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\bin\Debug\Masaüstü Düzenleyici.pdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\Masaüstü Düzenleyici.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Masaüstü Düzenleyici\MasaUstuDuzenleyici v2.0.1\MasaUstuDuzenleyici\obj\Debug\Masaüstü Düzenleyici.pdb
